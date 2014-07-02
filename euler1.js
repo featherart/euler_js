@@ -13,4 +13,4 @@ function multiplesBelow() {
   return sum;
 }
 
-
+console.log(multiplesBelow());
